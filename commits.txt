@@ -1,0 +1,83 @@
+commit 8a09c78143afee3207bc7f041abd3b4308bad06b
+Author: Ramiro <castilloramiro313@gmail.com>
+Date:   Sat Mar 25 12:21:41 2017 -0400
+
+    Boton DC de Arriba
+
+commit 73bea0f5788c3612919cd9cd7c0dce9d9f5222e0
+Author: Ramiro <castilloramiro313@gmail.com>
+Date:   Sat Mar 25 12:20:58 2017 -0400
+
+    Boton Marvel de Arriba
+
+commit fac9e75e41e5fdfee3f70e66a82f63200e789772
+Author: Ramiro <castilloramiro313@gmail.com>
+Date:   Sat Mar 25 12:19:14 2017 -0400
+
+    Boton inferior
+
+commit a223477e01bfea00798625b4591c5c93f40bb178
+Author: Ramiro <castilloramiro313@gmail.com>
+Date:   Sat Mar 25 12:18:16 2017 -0400
+
+    Adicion de mujer Maravilla
+
+commit 1c0eada2fcc29a0b883ca9f97e3c58ec49467d74
+Author: Ramiro <castilloramiro313@gmail.com>
+Date:   Sat Mar 25 12:17:31 2017 -0400
+
+    Adicion de Thor
+
+commit a3f4212286619f28dd1644bee167b0cf0e7fe59c
+Author: Ramiro <castilloramiro313@gmail.com>
+Date:   Sat Mar 25 12:14:55 2017 -0400
+
+    Adicion de Thor
+
+commit ddb6ce364e2d6694e5f3864257a1431bdf55b06f
+Author: Ramiro <castilloramiro313@gmail.com>
+Date:   Sat Mar 25 12:14:31 2017 -0400
+
+    Adicion de Ojo de alcon
+
+commit 4c34fb5c3f3714f8c047537c95db8d5bb1454d5a
+Author: Ramiro <castilloramiro313@gmail.com>
+Date:   Sat Mar 25 12:13:51 2017 -0400
+
+    Adicion de deapool
+
+commit 7d2f408bd69e286d9974a72db20c4518a0a992be
+Author: Ramiro <castilloramiro313@gmail.com>
+Date:   Sat Mar 25 12:13:11 2017 -0400
+
+    Adicion de hulk
+
+commit 614bc8d785349c6abb225d3accbb9b3f260019d5
+Author: Ramiro <castilloramiro313@gmail.com>
+Date:   Sat Mar 25 12:10:36 2017 -0400
+
+    Adicion de Black Widow
+
+commit ed00afd310b50ecd1c56fb7556b414d17f9cced7
+Author: Ramiro <castilloramiro313@gmail.com>
+Date:   Sat Mar 25 12:08:11 2017 -0400
+
+    Adiccion  de un bottom en la parte principal
+
+commit 4ec828aa16e73f5660fa5023239e6a1ecfad8434
+Author: Ramiro <castilloramiro313@gmail.com>
+Date:   Sat Mar 25 12:04:37 2017 -0400
+
+    Cambio en el subtitulo de la pagina
+
+commit 3e50fd05c8e5458787351dd4ff7c09011eaa12d0
+Author: Ramiro <castilloramiro313@gmail.com>
+Date:   Sat Mar 25 12:01:31 2017 -0400
+
+    Cambio en el Texto del Titulo
+
+commit 6eb63ac61470731d82e80dcc2dbaaa86631d8fe5
+Author: Ramiro <castilloramiro313@gmail.com>
+Date:   Sat Mar 25 11:50:18 2017 -0400
+
+    Commit Inicial
